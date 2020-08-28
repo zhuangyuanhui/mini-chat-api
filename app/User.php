@@ -27,8 +27,4 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
         'test' => 'test399999',
     ];
-    public function ccc()
-    {
-
-    }
 }
