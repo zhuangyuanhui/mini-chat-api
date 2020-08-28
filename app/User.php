@@ -35,6 +35,6 @@ class User extends Authenticatable
      */
     protected $casts = [
         'email_verified_at' => 'datetime',
-        'test' => 'test',
+        'test' => 'test399999',
     ];
 }
